@@ -1,10 +1,5 @@
 # Node.js with Express, Sequelize and MySQL
 
-  <a aria-label="Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V14.md#14.15.4">
-    <img src="https://img.shields.io/badge/node.js@lts-14.15.4-informational?logo=Node.JS></img>
-  </a>
-
-
 ## Project setup
 
 ```
