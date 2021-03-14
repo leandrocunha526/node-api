@@ -18,6 +18,16 @@ module.exports = (sequelize, Sequelize) => {
       type: Sequelize.BOOLEAN,
       allowNull: false,
     },
+    createdAt: {
+      type: Sequelize.DATE,
+      field: "created_at",
+      allowNull: false,
+    },
+    updatedAt: {
+      type: Sequelize.DATE,
+      field: "updated_at",
+      allowNull: false,
+    },
   });
 
   return Tutorial;
